@@ -9,7 +9,7 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 <img src="images/pca-2.png"  width="300" height="300"></img>
 <figcaption>PCA - 2 components</figcaption>
 </figure>
-<br>
+</br>
 <figure>
 <img src="images/pca-3.png"  width="300" height="300"></img>
 <figcaption>PCA - 3 components</figcaption>
