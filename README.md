@@ -1,6 +1,6 @@
 
 
-<img src="images/pca-2.png"  width="500" height="600"></img>
+<img src="images/pca-2.png"  width="300" height="300"></img>
 <img src="images/pca-3.png"></img>
 <img src="images/silhouette.png"></img>
 
