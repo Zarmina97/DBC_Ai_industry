@@ -2,6 +2,7 @@
 
 <img src="images/pca-2.png"  width="300" height="300"></img>
 <img src="images/pca-3.png"  width="300" height="300"></img>
+<p>Silhouette plot.</p>
 <img src="images/silhouette.png"  width="500" height="300"></img>
 
 
