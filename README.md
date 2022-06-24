@@ -1,4 +1,4 @@
-<h1>DBC</h1>
+<h1>DBC on HPC dataset</h1>
 <p>Discriminately Boosted Clustering builds on DEC by using convolutional autoencoder instead of feed forward autoencoder. It uses the same training scheme, reconstruction loss and cluster assignment hardening loss as DEC. DBC achieves good results on image datasets because of its use of convolutional neural network.</p>
 
 <h1>Results</h1>
