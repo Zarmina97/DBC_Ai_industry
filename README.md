@@ -9,15 +9,17 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 <img src="images/pca-2.png"  width="300" height="300"></img>
 <figcaption>PCA - 2 components</figcaption>
 </figure>
-<br /> 
+&nbsp;
+
+&nbsp;
 <figure>
 <img src="images/pca-3.png"  width="300" height="300"></img>
 <figcaption>PCA - 3 components</figcaption>
 </figure>
 &nbsp;
 
-&nbsp;
 
+&nbsp;
 
 <p> In the Silhouette plot below we can see that the data instance is close to the center of the cluster and instances possessing the silhouette scores close to 0 are on the border between two clusters. .</p>
 <figure>
