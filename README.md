@@ -17,7 +17,13 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 <figcaption>PCA - 3 components</figcaption>
 </figure>
 &nbsp;
+&nbsp;
 
+<p>T-SNE is mostly used to understand high-dimensional data and project it into low-dimensional space (like 2D or 3D). That makes it extremely useful when dealing with CNN networks.</p>
+<figure>
+<img src="images/tsne.png"  width="300" height="300"></img>
+<figcaption>T-SNE plot </figcaption>
+</figure>
 
 &nbsp;
 
