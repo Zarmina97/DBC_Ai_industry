@@ -11,12 +11,15 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 </figure>
 &nbsp;
 
+
 &nbsp;
 <figure>
 <img src="images/pca-3.png"  width="300" height="300"></img>
 <figcaption>PCA - 3 components</figcaption>
 </figure>
 &nbsp;
+
+
 &nbsp;
 
 <p>T-SNE is mostly used to understand high-dimensional data and project it into low-dimensional space (like 2D or 3D). That makes it extremely useful when dealing with CNN networks.</p>
@@ -24,6 +27,8 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 <img src="images/tsne.png"  width="300" height="300"></img>
 <figcaption>T-SNE plot </figcaption>
 </figure>
+&nbsp;
+
 
 &nbsp;
 
@@ -34,8 +39,9 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 </figure>
 &nbsp;
 
+
 &nbsp;
-<p>Considering the hyperparameters epochs=100, the batch size= 256 and the validation size= 64, I obtained the following results.</p>
+<p>Considering the hyperparameters epochs=100, the batch size= 256 and the validation size= 128, I obtained the following results.</p>
 <ul>
 <li>Accuracy = 71.91%</li>
 <li>Silhouette Score = 0.414</li>
