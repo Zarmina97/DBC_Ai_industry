@@ -43,7 +43,7 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 &nbsp;
 <p>Considering the hyperparameters epochs=100, the batch size= 256 and the validation size= 128, I obtained the following results.</p>
 <ul>
-<li>Accuracy = 71.91%</li>
-<li>Silhouette Score = 0.414</li>
-<li>NMI = 0.00186</li>
+<li>Accuracy = 70.51%</li>
+<li>Silhouette Score = 0.410</li>
+<li>NMI = 0.00189</li>
 </ul>
