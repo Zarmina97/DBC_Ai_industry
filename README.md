@@ -29,9 +29,16 @@ On the left we can observe PCA with 2 components and on the right PCA with 3 com
 &nbsp;
 
 &nbsp;
-<p>Considering the hyperparameters epochs=100, the batch size= 256 and the validation size= 64, I obtained the following results.</p>
+<figure>
+<img src="images/confusion_matrix.png"  width="500" height="300"></img>
+<figcaption>Confusion Matrix plot</figcaption>
+</figure>
+&nbsp;
+
+&nbsp;
+<p>Considering the hyperparameters epochs=100, the batch size= 256 and the validation size= 128, I obtained the following results.</p>
 <ul>
-<li>Accuracy = 71.91%</li>
-<li>Silhouette Score = 0.414</li>
-<li>NMI = 0.00186</li>
+<li>Accuracy = 59.102361	%</li>
+<li>Silhouette Score = 0.034447</li>
+<li>NMI = 0.002651</li>
 </ul>
